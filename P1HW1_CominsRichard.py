@@ -8,8 +8,8 @@ num3 = (num1) + (num2)
 num4 = (num1) * (num2)
 print('First number entered.' ,num1)
 print('Second numbered entered.',num2)
-print('The sum of adding the two numbers is',num1 + num2)
-print ('The product of multiplying the two numbers is' ,num1 * num2)
+print('The sum of adding the two numbers is',num3)
+print ('The product of multiplying the two numbers is' ,num4)
 
 
 
